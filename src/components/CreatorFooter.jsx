@@ -27,7 +27,7 @@ const CreatorFooter = () => {
           <div className="footer-links">
             {/* GitHub */}
             <a
-              href="https://github.com/KundanKumar"
+              href="https://github.com/kundan1729?tab=repositories"
               target="_blank"
               rel="noopener noreferrer"
               className="social-link github"
@@ -45,7 +45,7 @@ const CreatorFooter = () => {
 
             {/* LinkedIn */}
             <a
-              href="https://www.linkedin.com/in/kundan-kumar/"
+              href="https://www.linkedin.com/in/kundan-kumar-838959252/"
               target="_blank"
               rel="noopener noreferrer"
               className="social-link linkedin"
@@ -63,7 +63,7 @@ const CreatorFooter = () => {
 
             {/* Website */}
             <a
-              href="https://www.kundankumar.com"
+              href="https://www.itskundan.live/"
               target="_blank"
               rel="noopener noreferrer"
               className="social-link website"
